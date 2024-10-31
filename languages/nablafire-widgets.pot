@@ -1,0 +1,585 @@
+# Copyright (C) 2017 Nablafire Widgets
+# This file is distributed under the same license as the Nablafire Widgets package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Nablafire Widgets 1.1.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/nablafire-"
+"widgets\n"
+"POT-Creation-Date: 2017-11-19 05:55:41+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: .dotorg/tags/1.1.1/inc/nablafire-utils/plugin-utils/data-control/Nablafire-Widget-Data-Control.php:132
+#: .dotorg/tags/1.1.1/inc/widgets/admin/nabla-widgets-admin-templates.php:105
+#: .dotorg/tags/1.1.2/inc/nablafire-utils/plugin-utils/data-control/Nablafire-Widget-Data-Control.php:132
+#: .dotorg/tags/1.1.2/inc/widgets/admin/nabla-widgets-admin-templates.php:105
+#: .dotorg/trunk/inc/nablafire-utils/plugin-utils/data-control/Nablafire-Widget-Data-Control.php:132
+#: .dotorg/trunk/inc/widgets/admin/nabla-widgets-admin-templates.php:105
+#: inc/nablafire-utils/plugin-utils/data-control/Nablafire-Widget-Data-Control.php:132
+#: inc/widgets/admin/nabla-widgets-admin-templates.php:105
+msgid "Choose File"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/nablafire-utils/plugin-utils/font-control/Nablafire-Widget-Font-Control.php:32
+#: .dotorg/tags/1.1.2/inc/nablafire-utils/plugin-utils/font-control/Nablafire-Widget-Font-Control.php:32
+#: .dotorg/trunk/inc/nablafire-utils/plugin-utils/font-control/Nablafire-Widget-Font-Control.php:32
+#: inc/nablafire-utils/plugin-utils/font-control/Nablafire-Widget-Font-Control.php:32
+msgid "Font Family"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/nablafire-utils/plugin-utils/font-control/Nablafire-Widget-Font-Control.php:51
+#: .dotorg/tags/1.1.2/inc/nablafire-utils/plugin-utils/font-control/Nablafire-Widget-Font-Control.php:51
+#: .dotorg/trunk/inc/nablafire-utils/plugin-utils/font-control/Nablafire-Widget-Font-Control.php:51
+#: inc/nablafire-utils/plugin-utils/font-control/Nablafire-Widget-Font-Control.php:51
+msgid "Font Variant"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/nablafire-utils/plugin-utils/font-control/Nablafire-Widget-Font-Control.php:70
+#: .dotorg/tags/1.1.2/inc/nablafire-utils/plugin-utils/font-control/Nablafire-Widget-Font-Control.php:70
+#: .dotorg/trunk/inc/nablafire-utils/plugin-utils/font-control/Nablafire-Widget-Font-Control.php:70
+#: inc/nablafire-utils/plugin-utils/font-control/Nablafire-Widget-Font-Control.php:70
+msgid "Font Size (px)"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/nablafire-utils/plugin-utils/font-control/Nablafire-Widget-Font-Control.php:83
+#: .dotorg/tags/1.1.2/inc/nablafire-utils/plugin-utils/font-control/Nablafire-Widget-Font-Control.php:83
+#: .dotorg/trunk/inc/nablafire-utils/plugin-utils/font-control/Nablafire-Widget-Font-Control.php:83
+#: inc/nablafire-utils/plugin-utils/font-control/Nablafire-Widget-Font-Control.php:83
+msgid "Font Color (rgba)"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-caption.php:7
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-caption.php:7
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-caption.php:7
+#: inc/widgets/nablafire-fancy-caption.php:7
+msgid "Fancy Caption"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-caption.php:9
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-caption.php:9
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-caption.php:9
+#: inc/widgets/nablafire-fancy-caption.php:9
+msgid "Fancy caption with image and text"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-caption.php:50
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-caption.php:208
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-caption.php:50
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-caption.php:208
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-caption.php:50
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-caption.php:208
+#: inc/widgets/nablafire-fancy-caption.php:50
+#: inc/widgets/nablafire-fancy-caption.php:208
+msgid "Accent Settings"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-caption.php:57
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-caption.php:57
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-caption.php:57
+#: inc/widgets/nablafire-fancy-caption.php:57
+msgid "Select Icon"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-caption.php:62
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-caption.php:62
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-caption.php:62
+#: inc/widgets/nablafire-fancy-caption.php:62
+msgid "Icon Size (px)"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-caption.php:68
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-caption.php:74
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-caption.php:68
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-caption.php:74
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-caption.php:68
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-caption.php:74
+#: inc/widgets/nablafire-fancy-caption.php:68
+#: inc/widgets/nablafire-fancy-caption.php:74
+msgid "Accent Size (px)"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-caption.php:80
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-caption.php:80
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-caption.php:80
+#: inc/widgets/nablafire-fancy-caption.php:80
+msgid "Accent Color (rgba)"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-caption.php:86
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-caption.php:86
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-caption.php:86
+#: inc/widgets/nablafire-fancy-caption.php:86
+msgid "Hover Color (rgba)"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-caption.php:92
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-image.php:94
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-text.php:186
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-title.php:110
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-caption.php:92
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-image.php:94
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-text.php:186
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-title.php:110
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-caption.php:92
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-image.php:94
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-text.php:186
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-title.php:110
+#: inc/widgets/nablafire-fancy-caption.php:92
+#: inc/widgets/nablafire-fancy-image.php:94
+#: inc/widgets/nablafire-fancy-text.php:186
+#: inc/widgets/nablafire-fancy-title.php:110
+msgid "Background Color (rgba)"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-caption.php:112
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-caption.php:112
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-caption.php:112
+#: inc/widgets/nablafire-fancy-caption.php:112
+msgid "Caption Text"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-caption.php:152
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-text.php:117
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-title.php:63
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-caption.php:152
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-text.php:117
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-title.php:63
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-caption.php:152
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-text.php:117
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-title.php:63
+#: inc/widgets/nablafire-fancy-caption.php:152
+#: inc/widgets/nablafire-fancy-text.php:117
+#: inc/widgets/nablafire-fancy-title.php:63
+msgid "Text"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-caption.php:157
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-text.php:60
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-text.php:122
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-title.php:68
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-caption.php:157
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-text.php:60
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-text.php:122
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-title.php:68
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-caption.php:157
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-text.php:60
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-text.php:122
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-title.php:68
+#: inc/widgets/nablafire-fancy-caption.php:157
+#: inc/widgets/nablafire-fancy-text.php:60
+#: inc/widgets/nablafire-fancy-text.php:122
+#: inc/widgets/nablafire-fancy-title.php:68
+msgid "Alignment"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-caption.php:163
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-image.php:100
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-text.php:66
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-text.php:137
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-text.php:192
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-title.php:116
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-caption.php:163
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-image.php:100
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-text.php:66
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-text.php:137
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-text.php:192
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-title.php:116
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-caption.php:163
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-image.php:100
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-text.php:66
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-text.php:137
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-text.php:192
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-title.php:116
+#: inc/widgets/nablafire-fancy-caption.php:163
+#: inc/widgets/nablafire-fancy-image.php:100
+#: inc/widgets/nablafire-fancy-text.php:66
+#: inc/widgets/nablafire-fancy-text.php:137
+#: inc/widgets/nablafire-fancy-text.php:192
+#: inc/widgets/nablafire-fancy-title.php:116
+msgid "Padding (CSS Shorthand)"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-caption.php:222
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-caption.php:222
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-caption.php:222
+#: inc/widgets/nablafire-fancy-caption.php:222
+msgid "Caption Settings"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-caption.php:237
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-text.php:284
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-caption.php:237
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-text.php:284
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-caption.php:237
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-text.php:284
+#: inc/widgets/nablafire-fancy-caption.php:237
+#: inc/widgets/nablafire-fancy-text.php:284
+msgid "Text Settings"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-image.php:7
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-image.php:9
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-image.php:7
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-image.php:9
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-image.php:7
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-image.php:9
+#: inc/widgets/nablafire-fancy-image.php:7
+#: inc/widgets/nablafire-fancy-image.php:9
+msgid "Fancy Image"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-image.php:46
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-image.php:46
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-image.php:46
+#: inc/widgets/nablafire-fancy-image.php:46
+msgid "image Properties"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-image.php:53
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-image.php:53
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-image.php:53
+#: inc/widgets/nablafire-fancy-image.php:53
+msgid "Select Image"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-image.php:58
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-image.php:58
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-image.php:58
+#: inc/widgets/nablafire-fancy-image.php:58
+msgid "Image Displacement (%)"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-image.php:59
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-image.php:59
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-image.php:59
+#: inc/widgets/nablafire-fancy-image.php:59
+msgid ""
+"Shift the image horizontally <em>(0-100%)</em> within the widget container? "
+"<strong>(static image)</strong>"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-image.php:65
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-image.php:65
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-image.php:65
+#: inc/widgets/nablafire-fancy-image.php:65
+msgid "Contain Image?"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-image.php:66
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-image.php:66
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-image.php:66
+#: inc/widgets/nablafire-fancy-image.php:66
+msgid ""
+"Contain the image to its div by applying the needed horizontal and vertical "
+"scaling? <strong>(static image)</strong>."
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-image.php:72
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-image.php:72
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-image.php:72
+#: inc/widgets/nablafire-fancy-image.php:72
+msgid "Parallax Effect?"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-image.php:87
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-text.php:179
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-title.php:103
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-image.php:87
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-text.php:179
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-title.php:103
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-image.php:87
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-text.php:179
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-title.php:103
+#: inc/widgets/nablafire-fancy-image.php:87
+#: inc/widgets/nablafire-fancy-text.php:179
+#: inc/widgets/nablafire-fancy-title.php:103
+msgid "Layout Properties"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-image.php:105
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-image.php:105
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-image.php:105
+#: inc/widgets/nablafire-fancy-image.php:105
+msgid "Fixed Height? (CSS Units)"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-image.php:106
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-image.php:106
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-image.php:106
+#: inc/widgets/nablafire-fancy-image.php:106
+msgid ""
+"This setting allows you to set a fixed height for your image. If this value "
+"is set to zero(0), then your image will expand to match the height of its "
+"container."
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-image.php:128
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-text.php:220
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-title.php:137
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-image.php:128
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-text.php:220
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-title.php:137
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-image.php:128
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-text.php:220
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-title.php:137
+#: inc/widgets/nablafire-fancy-image.php:128
+#: inc/widgets/nablafire-fancy-text.php:220
+#: inc/widgets/nablafire-fancy-title.php:137
+msgid "Show Border Elements?"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-image.php:133
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-text.php:225
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-title.php:142
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-image.php:133
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-text.php:225
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-title.php:142
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-image.php:133
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-text.php:225
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-title.php:142
+#: inc/widgets/nablafire-fancy-image.php:133
+#: inc/widgets/nablafire-fancy-text.php:225
+#: inc/widgets/nablafire-fancy-title.php:142
+msgid "Inset Border?"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-image.php:138
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-text.php:230
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-title.php:147
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-image.php:138
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-text.php:230
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-title.php:147
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-image.php:138
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-text.php:230
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-title.php:147
+#: inc/widgets/nablafire-fancy-image.php:138
+#: inc/widgets/nablafire-fancy-text.php:230
+#: inc/widgets/nablafire-fancy-title.php:147
+msgid "Border Radius (CSS Units)"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-image.php:139
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-text.php:231
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-title.php:148
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-image.php:139
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-text.php:231
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-title.php:148
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-image.php:139
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-text.php:231
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-title.php:148
+#: inc/widgets/nablafire-fancy-image.php:139
+#: inc/widgets/nablafire-fancy-text.php:231
+#: inc/widgets/nablafire-fancy-title.php:148
+msgid ""
+"Border radius will always be applied. Set border radius to 0px for square "
+"corners"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-image.php:144
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-text.php:236
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-title.php:153
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-image.php:144
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-text.php:236
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-title.php:153
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-image.php:144
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-text.php:236
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-title.php:153
+#: inc/widgets/nablafire-fancy-image.php:144
+#: inc/widgets/nablafire-fancy-text.php:236
+#: inc/widgets/nablafire-fancy-title.php:153
+msgid "Border Size (CSS Units)"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-image.php:149
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-text.php:241
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-title.php:158
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-image.php:149
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-text.php:241
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-title.php:158
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-image.php:149
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-text.php:241
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-title.php:158
+#: inc/widgets/nablafire-fancy-image.php:149
+#: inc/widgets/nablafire-fancy-text.php:241
+#: inc/widgets/nablafire-fancy-title.php:158
+msgid "Border Fade (CSS Units)"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-image.php:154
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-text.php:246
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-title.php:163
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-image.php:154
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-text.php:246
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-title.php:163
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-image.php:154
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-text.php:246
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-title.php:163
+#: inc/widgets/nablafire-fancy-image.php:154
+#: inc/widgets/nablafire-fancy-text.php:246
+#: inc/widgets/nablafire-fancy-title.php:163
+msgid "Border Color (rgba)"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-image.php:178
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-image.php:178
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-image.php:178
+#: inc/widgets/nablafire-fancy-image.php:178
+msgid "Image Settings"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-image.php:193
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-text.php:300
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-title.php:202
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-image.php:193
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-text.php:300
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-title.php:202
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-image.php:193
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-text.php:300
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-title.php:202
+#: inc/widgets/nablafire-fancy-image.php:193
+#: inc/widgets/nablafire-fancy-text.php:300
+#: inc/widgets/nablafire-fancy-title.php:202
+msgid "Div Settings"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-text.php:10
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-text.php:10
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-text.php:10
+#: inc/widgets/nablafire-fancy-text.php:10
+msgid "Fancy Text"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-text.php:12
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-text.php:12
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-text.php:12
+#: inc/widgets/nablafire-fancy-text.php:12
+msgid "Fancy Text Area"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-text.php:55
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-text.php:55
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-text.php:55
+#: inc/widgets/nablafire-fancy-text.php:55
+msgid "Title Text"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-text.php:71
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-text.php:71
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-text.php:71
+#: inc/widgets/nablafire-fancy-text.php:71
+msgid "Show Title?"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-text.php:76
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-text.php:76
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-text.php:76
+#: inc/widgets/nablafire-fancy-text.php:76
+msgid "Render Below Text?"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-text.php:129
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-text.php:129
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-text.php:129
+#: inc/widgets/nablafire-fancy-text.php:129
+msgid "Line Height (%)"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-text.php:130
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-text.php:130
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-text.php:130
+#: inc/widgets/nablafire-fancy-text.php:130
+msgid "Set the line height of your text <em>(100-200%)</em>"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-text.php:142
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-text.php:142
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-text.php:142
+#: inc/widgets/nablafire-fancy-text.php:142
+msgid "Accent Color"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-text.php:143
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-text.php:143
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-text.php:143
+#: inc/widgets/nablafire-fancy-text.php:143
+msgid ""
+"Allows you to highlight your text with \n"
+"\t\t\t\t\t\tthe <span> tag"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-text.php:180
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-text.php:180
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-text.php:180
+#: inc/widgets/nablafire-fancy-text.php:180
+msgid ""
+"These values apply to the fancy text container. Note that fancy texts will "
+"expand in width to fill their container"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-text.php:197
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-text.php:197
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-text.php:197
+#: inc/widgets/nablafire-fancy-text.php:197
+msgid "Inherit Height?"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-text.php:198
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-text.php:198
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-text.php:198
+#: inc/widgets/nablafire-fancy-text.php:198
+msgid "Inherit the height from the tallest widget in the widegt row?"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-text.php:269
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-title.php:187
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-text.php:269
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-title.php:187
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-text.php:269
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-title.php:187
+#: inc/widgets/nablafire-fancy-text.php:269
+#: inc/widgets/nablafire-fancy-title.php:187
+msgid "Title Settings"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-title.php:18
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-title.php:18
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-title.php:18
+#: inc/widgets/nablafire-fancy-title.php:18
+msgid "Fancy Title"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-title.php:20
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-title.php:20
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-title.php:20
+#: inc/widgets/nablafire-fancy-title.php:20
+msgid "Fancy Title Area"
+msgstr ""
+
+#: .dotorg/tags/1.1.1/inc/widgets/nablafire-fancy-title.php:104
+#: .dotorg/tags/1.1.2/inc/widgets/nablafire-fancy-title.php:104
+#: .dotorg/trunk/inc/widgets/nablafire-fancy-title.php:104
+#: inc/widgets/nablafire-fancy-title.php:104
+msgid ""
+"These values apply to the fancy title container. Note that fancy titles will "
+"expand in width to fill their container"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Nablafire Widgets"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Nablafire Fontpage Widgets Plugin"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Nablafire"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.nablafire.com/"
+msgstr ""

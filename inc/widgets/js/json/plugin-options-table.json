@@ -1,0 +1,93 @@
+{
+	"fancy_title" : { 
+
+		"title_mn_text"		: "Fancy Title",
+		"title_mn_align"	: "center",
+		"title_font_fam"	: "Montserrat",	
+		"title_font_var"	: "regular",
+		"title_font_size"	: "24",
+		"title_font_color"	: "#000",				
+		"div_mn_color"	   	: "#fff",
+		"div_mn_padding"  	: "10px",
+		"div_mn_margin"   	: "10px",
+		"div_bd_radius"  	: "10px", 
+		"div_bd_size"  		: "2px", 
+		"div_bd_fade"  		: "0px",  
+		"div_bd_color"		: "#aaa",
+		"div_bd_show"		: "",
+		"div_bd_inset"		: ""
+	},
+
+	"fancy_text" : { 
+
+		"title_mn_text"		: "Fancy Text",
+		"title_mn_align"	: "center",
+		"title_mn_padding"	: "10px",
+		"title_mn_show"		: "",
+		"title_mn_below"	: "",
+		"title_font_fam"	: "Montserrat",	
+		"title_font_var"	: "regular",
+		"title_font_size"	: "24",
+		"title_font_color"	: "#000",
+		"text_mn_text"		: "",
+		"text_mn_align"		: "justify",
+		"text_mn_padding"	: "10px",
+		"text_mn_line"		: "150",
+		"text_mn_accent"	: "#fff",
+		"text_font_fam"		: "Montserrat",	
+		"text_font_var"		: "regular",
+		"text_font_size"	: "16",
+		"text_font_color"	: "#000",
+		"div_mn_color"	   	: "#fff",
+		"div_mn_padding"  	: "10px",
+		"div_mn_inherit"	: "",
+		"div_bd_radius"  	: "10px", 
+		"div_bd_size"  		: "2px", 
+		"div_bd_fade"  		: "0px", 
+		"div_bd_color"		: "#aaa",
+		"div_bd_show"		: "",
+		"div_bd_inset"		: ""
+	},
+
+	"fancy_image" : {
+
+		"div_im_image"		: "",
+		"div_im_shift"		: "0",
+		"div_im_contain"	: "",
+		"div_im_parallax"	: "",
+		"div_mn_padding"	: "10px",
+		"div_mn_margin"		: "10px",
+		"div_mn_height"		: "300px",
+		"div_mn_color"		: "#fff",
+		"div_bd_radius"		: "10px", 
+		"div_bd_size"		: "2px", 
+		"div_bd_fade"  		: "0px", 
+		"div_bd_color"		: "#aaa",
+		"div_bd_show"		: "",
+		"div_bd_inset"		: ""
+	},
+
+	"fancy_caption" : {
+
+		"accent_ic_image"	: "",
+		"accent_ic_size"	: "30",
+		"accent_ac_size"	: "120",
+		"accent_ac_weight"	: "12",
+		"accent_ac_fg_color": "#000",
+		"accent_ac_hv_color": "#888",
+		"accent_ac_bg_color": "#fff",
+		"title_mn_text"		: "Fancy Caption",
+		"title_font_fam"	: "Montserrat",	
+		"title_font_var"	: "regular",
+		"title_font_size"	: "24",
+		"title_font_color"	: "#000",
+		"text_mn_text"		: "",
+		"text_mn_align"		: "justify",
+		"text_mn_padding"	: "10px 5px",
+		"text_font_fam"		: "Montserrat",	
+		"text_font_var"		: "regular",
+		"text_font_size"	: "16",
+		"text_font_color"	: "#000"
+	}
+}
+
